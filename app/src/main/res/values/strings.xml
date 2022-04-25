@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">LifeHouseKeeper</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="account">帳號:</string>
+    <string name="password">密碼:</string>
+    <string name="registerAccount">帳號註冊</string>
+    <string name="forgetPassword">忘記密碼</string>
+    <string name="login">登入</string>
+    <string name="inputFormat">輸入8到16個英/數字</string>
+    <string name="hintGmail">xxx@gmail.com</string>
+    <string name="hint_login">登入中，請稍候</string>
+
+    //button按鈕
+    <string name="hint_confirm">確定</string>
+    <string name="hint_cancel">取消</string>
+    <string name="rememberMe">記住帳密</string>
+    <string name="LifeHouseKeeper">生活管家</string>
+    <string name="uploadFail">上傳失敗</string>
+    <string name="loginSuccess">登入成功</string>
+    <string name="register">註冊</string>
+    <string name="sendemail">發送驗證碼</string>
+    <string name="passwordAgain">請再輸入一次密碼</string>
+    <string name="newPassword">新密碼:</string>
+    <string name="send">發送</string>
+    <string name="eventNew">事件新增</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="subject">主旨:</string>
+    <string name="inputSubject">輸入主旨</string>
+    <string name="payForMoney">花費:</string>
+    <string name="dollars">xxx元</string>
+    <string name="eventDES">事件內容:</string>
+    <string name="inputEventDes">填入事件內容</string>
+    <string name="clear">清除</string>
+    <string name="postEvent">新增</string>
+</resources>
